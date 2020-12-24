@@ -1,5 +1,5 @@
 # monsterGame
-DESCRIPTION
+DESCRIPTION:
 A Basic game based on vanilla JavaScript. consist of two progress bars or health bars so to say one of monster’s and one of player’s. The health bars limit can be specified by the player at the start of the game as a prompt pops up in which the player can specify the health of both the characters i.e the player itself and the monster both will have the same health as specified. The player has extra health and can only be used one time the entire game. You have no control over using it and executes itself just before the player is about to die.
 
  The player can ATTACK, STRONG ATTACK and HEAL. 
